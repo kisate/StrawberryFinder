@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "61733086373",
+    "firebase_url": "https://strawberryfinder.firebaseio.com",
+    "project_id": "strawberryfinder",
+    "storage_bucket": "strawberryfinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61733086373:android:fb90cd8dd26fee94",
+        "android_client_info": {
+          "package_name": "com.example.dima.strawberryfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61733086373-33j9c39vokl50vkmr9v5bvfclqo2hbaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dima.strawberryfinder",
+            "certificate_hash": "cf12b8e7eab62c2edbf50395a598c7ce247e8e2c"
+          }
+        },
+        {
+          "client_id": "61733086373-v2n3k2ft1thda5kiomnk83f1n06lslhi.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "61733086373-v2n3k2ft1thda5kiomnk83f1n06lslhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx3c_Fh_583QmEfporzqk48KqfEJVuywM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61733086373-v2n3k2ft1thda5kiomnk83f1n06lslhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
