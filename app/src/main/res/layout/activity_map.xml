@@ -19,9 +19,9 @@
 
             <RelativeLayout
                 android:id="@+id/maplayout"
-                android:layout_width="0dp"
-                android:layout_height="0dp"
-                android:background="@drawable/grasstile">
+                android:layout_width="2000dp"
+                android:layout_height="1000dp"
+                android:background="@drawable/background_bush">
 
             </RelativeLayout>
         </FrameLayout>
