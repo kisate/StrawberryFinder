@@ -102,6 +102,8 @@ class MapActivity : FullscreenActivity() {
         params.topMargin = (berry.y*pixToCm).toInt()
         maplayout.addView(view, params)
 
+        if (berry.status == 1) view.setColorFilter(Color.GRAY)
+        else if (berry.status == 2) view.setColorFilter(Color.GREEN)
 
         view.setOnClickListener { displayDialog(view, berry) }
     }
