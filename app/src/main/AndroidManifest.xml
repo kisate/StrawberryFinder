@@ -4,7 +4,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/strawberry"
+        android:icon="@drawable/strawberry_good"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
@@ -16,7 +16,7 @@
         </activity>
         <activity
             android:name=".MapActivity"
-            android:screenOrientation="portrait">
+            android:screenOrientation="landscape">
 
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
